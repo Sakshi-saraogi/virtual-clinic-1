@@ -41,4 +41,3 @@ git push heroku master
 heroku run python manage.py migrate
 ```
 - Application will be live on the url generated
-- If there is any issue in this steps, feel free to contact either by opening an issue or mailing me at shahmishal1998@gmail.com
