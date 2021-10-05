@@ -451,7 +451,7 @@ class ImportForm(forms.Form):
 
 class ExportForm(forms.Form):
     CHOICES = (
-        ('hospitals','Download all hospitals'),
+        ('hospitals','Download all Hospitals'),
         ('users','Download all users'),
     )
     export = forms.ChoiceField(required=True,widget=forms.RadioSelect, choices=CHOICES)
