@@ -1,7 +1,7 @@
 language: python
 
 python:
-  - 3.6
+  - 3.9.7
 
 services: postgresql
 
@@ -30,9 +30,9 @@ script:
 # addons:
 #   coverity_scan:
 #     project:
-#       name: "mishal23/virtual-clinic"
+#       name: "SaanjhiSaraogi/virtual-clinic"
 #       description: "Virtual Clinic"
-#     notification_email: shahmishal1998@gmail.com
+#     notification_email: saanjhisaraogi2308@gmail.com
 #     build_command_prepend: "<Your build preprocessing command here>"
 #     build_command: "<Your build command here>"
 #     branch_pattern: master
