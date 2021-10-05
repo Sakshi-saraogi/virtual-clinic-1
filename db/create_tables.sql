@@ -90,7 +90,7 @@ CREATE TABLE IF NOT EXISTS `message` (
 	`sender_id` int UNIQUE,
 	`header` varchar(100) NOT NULL,
 	`body` varchar(1000) NOT NULL,
-	`timestamp` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ,
+	`timestamp` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP  ,
 	PRIMARY KEY (`id`),
 	CONSTRAINT FOREIGN KEY(`target_id`) REFERENCES `account`(`id`) ON DELETE CASCADE,
 	CONSTRAINT FOREIGN KEY(`sender_id`) REFERENCES `account`(`id`) ON DELETE CASCADE
