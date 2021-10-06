@@ -1,13 +1,4 @@
-# Virtual Clinic - An Integrated Care System
-
-[![Build Status](https://travis-ci.org/mishal23/virtual-clinic.svg?branch=master)](https://travis-ci.org/mishal23/virtual-clinic)
-[![Coverage Status](https://img.shields.io/codecov/c/github/mishal23/virtual-clinic.svg)](https://codecov.io/gh/mishal23/virtual-clinic)
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/1873/badge)](https://bestpractices.coreinfrastructure.org/projects/1873)
-![my website](https://img.shields.io/website-up-down-green-red/http/virtual-clinic.herokuapp.com.svg?label=website)
-[![Commits](https://github-basic-badges.herokuapp.com/commits/mishal23/virtual-clinic.svg)]()
-[![License](https://github-basic-badges.herokuapp.com/license/mishal23/virtual-clinic.svg)]()
-[![Pulls](https://github-basic-badges.herokuapp.com/pulls/mishal23/virtual-clinic.svg)]()
-[![Issues](https://github-basic-badges.herokuapp.com/issues/mishal23/virtual-clinic.svg)]()
+# Virtual Clinic - A Unified Care System
 
 A software to simplify the process of Health Care in hospitals to help the patients, doctor, labs, chemist.
 
