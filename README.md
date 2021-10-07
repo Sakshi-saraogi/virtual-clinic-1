@@ -33,6 +33,9 @@ A software to simplify the process of Health Care in hospitals to help the patie
 - Create Appointments
 - Update Medical Information
 - View Prescriptions
+
+
+HELOOOOOOOOO
 - View Medical Tests
 - View/Send Messages
 - Generate Invoice of Prescription
