@@ -83,6 +83,3 @@ A software to simplify the process of Health Care in hospitals to help the patie
 
 - Incase you would like to see a feature to be implemented in this project, please open an issue, or send an email to me!
 
-## License
-
-- The software is under MIT License
