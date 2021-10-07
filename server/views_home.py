@@ -115,7 +115,7 @@ def register_view(request):
             )
             logger.log(Action.ACTION_ACCOUNT, "Account Login", user.account)
             login(request,user)
-            request.session['alert_success'] = "Successfully registered with VirtualClinic."
+            request.session['alert_success'] = "Successfully registered with VirtualCliniccccccccccccccccc."
             return HttpResponseRedirect('/profile/')
     else:
         form = AccountRegisterForm()
